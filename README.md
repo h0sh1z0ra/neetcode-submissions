@@ -1,2 +1,2 @@
-# Neetcode Submissions
-my neetcode submissions (i'm highkey ass)
+# Leetcode/Neetcode grind
+I WANNA BE A SWE!!!
