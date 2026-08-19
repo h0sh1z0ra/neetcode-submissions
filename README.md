@@ -1,2 +1,2 @@
 # Leetcode/Neetcode grind
-I WANNA BE A SWE!!!
+I WANNA BE A PROGRAMMER!!!
